@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Keksley
-- 👀 I’m interested in Web development, game development and science
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Nest.js
 - 📫 How to reach me: Telegram: +79234212917
 
