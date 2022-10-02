@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Keksley
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Next.js
-- 📫 How to reach me: Telegram: +79234212917
+- 📫 How to reach me: Telegram: https://t.me/aleksey_pan
 
 <!---
 Keksley/Keksley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
