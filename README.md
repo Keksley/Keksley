@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keksley
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Nest.js
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me: Telegram: +79234212917
 
 <!---
