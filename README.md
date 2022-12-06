@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Keksley
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Next.js
 - 📫 How to reach me: Telegram: https://t.me/aleksey_pan
 
 <!---
